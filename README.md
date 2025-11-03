@@ -9,14 +9,19 @@ A small repository containing a Jupyter notebook (`CS.ipynb`) that demonstrates 
 
 ## Summary
 
-This project is a focused exploration of a decomposition technique referred to here as "CS decomposition". The notebook contains:
+This project is a focused exploration and implementation of the Cosine–Sine (CS) decomposition and its application to linear-optical systems. The notebook implements examples and experiments inspired by the paper:
 
-- A brief theoretical introduction and motivation
-- Worked examples with code (NumPy / SciPy)
-- Visualizations to illustrate results
+"Implementation of discrete positive operator valued measures on linear optical systems using cosine-sine decomposition"
+by Jaskaran Singh, Arvind, and Sandeep K. Goyal (Department of Physical Sciences, IISER Mohali).
+
+The notebook contains:
+
+- A brief theoretical introduction and motivation for applying the Cosine–Sine decomposition to linear-optical implementations of discrete POVMs
+- Worked examples with code (NumPy / SciPy) that demonstrate the decomposition and small optical-circuit-style constructions
+- Visualizations to illustrate results (matrix structures, singular values, reconstruction checks)
 - Minimal reproducible experiments you can run locally
 
-If you need the README updated with a more specific project description (for example: whether CS stands for Cauchy–Schwarz, compressed sensing, cosine similarity decomposition, or something else), tell me the intended meaning and I will update this file accordingly.
+
 
 ## Prerequisites
 
