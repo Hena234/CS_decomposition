@@ -9,7 +9,7 @@ A small repository containing a Jupyter notebook (`CS.ipynb`) that demonstrates 
 
 ## Summary
 
-The project is a focused exploration and implementation of the Cosine–Sine (CS) decomposition and its application to linear-optical systems. The notebook implements examples and experiments inspired by the paper:
+This project is a focused exploration and implementation of the Cosine–Sine (CS) decomposition and its application to linear-optical systems. The notebook implements examples and experiments inspired by the paper:
 
 "Implementation of discrete positive operator valued measures on linear optical systems using cosine-sine decomposition"
 by Jaskaran Singh, Arvind, and Sandeep K. Goyal (Department of Physical Sciences, IISER Mohali).
